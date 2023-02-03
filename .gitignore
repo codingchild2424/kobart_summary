@@ -1,0 +1,7 @@
+datasets/
+src/checkpoints/
+src/model_records/
+**/__pycache__/
+.env
+ckpt/
+logs/
